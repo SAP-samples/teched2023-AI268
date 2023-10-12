@@ -26,12 +26,11 @@ will open automatically. You only need to follow the steps below if you have you
 own JupyterLab instance, such as when running with Docker.*
 
 Start the exercises by downloading the
-[Jupyter notebook from Github](https://github.com/SAP-samples/teched2023-AI268/tree/main/exercises/ex1/Sales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb).
+[Jupyter notebook from Github](https://github.com/SAP-samples/teched2023-AI268/blob/main/exercises/ex1/Sales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb).
 
-Right-click [this direct link](https://github.com/SAP-samples/teched2023-AI268/tree/raw/exercises/ex1/Sales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb)
-and select "Save As". Save the file to disk.
+Click the download button to download the notebook as shown below.
 
-![Screenshot Save As](../images/save_as.png)
+![Screenshot Upload 0](../images/download-notebook.png)
 
 Inside of your Jupyter environment, click the "Upload" button.
 
