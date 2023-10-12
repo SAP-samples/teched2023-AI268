@@ -1,0 +1,18 @@
+{
+    "features": [
+        {"label": "SALESORDERTYPE", "type": "CATEGORY"},
+        {"label": "SALESORGANIZATION", "type": "CATEGORY"},
+        {"label": "DISTRIBUTIONCHANNEL", "type": "CATEGORY"},
+        {"label": "ORGANIZATIONDIVISION", "type": "CATEGORY"},
+        {"label": "MATERIAL", "type": "CATEGORY"}
+    ],
+    "labels": [
+        {"label": "SALESGROUP", "type": "CATEGORY"},
+        {"label": "SALESOFFICE", "type": "CATEGORY"}
+    ],
+    "businessBlueprintFields": [
+        {"label": "SALESDOCUMENT", "type": "CATEGORY"},
+        {"label": "SALESDOCUMENTITEM", "type": "CATEGORY"}
+    ],
+    "name": "soc-schema"
+}
