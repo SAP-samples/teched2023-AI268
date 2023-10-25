@@ -1,14 +1,34 @@
 {
     "features": [
-        {"label": "SALESORDERTYPE", "type": "CATEGORY"},
+        {"label": "CREATIONDATE", "type": "CATEGORY"},
+        {"label": "SALESDOCUMENTTYPE", "type": "CATEGORY"},
         {"label": "SALESORGANIZATION", "type": "CATEGORY"},
         {"label": "DISTRIBUTIONCHANNEL", "type": "CATEGORY"},
         {"label": "ORGANIZATIONDIVISION", "type": "CATEGORY"},
-        {"label": "MATERIAL", "type": "CATEGORY"}
+        {"label": "BILLINGCOMPANYCODE", "type": "CATEGORY"},
+        {"label": "TRANSACTIONCURRENCY", "type": "CATEGORY"},
+        {"label": "SALESDOCUMENTITEMCATEGORY", "type": "CATEGORY"},
+        {"label": "PRODUCT", "type": "CATEGORY"},
+        {"label": "SOLDTOPARTY", "type": "CATEGORY"},
+        {"label": "SOLDTOPARTYCOUNTRY", "type": "CATEGORY"},
+        {"label": "SOLDTOPARTYREGION", "type": "CATEGORY"},
+        {"label": "SHIPTOPARTY", "type": "CATEGORY"},
+        {"label": "SHIPTOCOUNTRY", "type": "CATEGORY"},
+        {"label": "SHIPTOPARTYREGION", "type": "CATEGORY"},
+        {"label": "BILLTOPARTY", "type": "CATEGORY"},
+        {"label": "BILLTOPARTYCOUNTRY", "type": "CATEGORY"},
+        {"label": "BILLTOPARTYREGION", "type": "CATEGORY"},
+        {"label": "PAYERPARTY", "type": "CATEGORY"},
+        {"label": "PAYERCOUNTRY", "type": "CATEGORY"},
+        {"label": "PAYERREGION", "type": "CATEGORY"}
     ],
     "labels": [
+        {"label": "SALESOFFICE", "type": "CATEGORY"},
         {"label": "SALESGROUP", "type": "CATEGORY"},
-        {"label": "SALESOFFICE", "type": "CATEGORY"}
+        {"label": "CUSTOMERPAYMENTTERMS", "type": "CATEGORY"},
+        {"label": "SHIPPINGCONDITION", "type": "CATEGORY"},
+        {"label": "PLANT", "type": "CATEGORY"},
+        {"label": "SHIPPINGPOINT", "type": "CATEGORY"}
     ],
     "businessBlueprintFields": [
         {"label": "SALESDOCUMENT", "type": "CATEGORY"},
