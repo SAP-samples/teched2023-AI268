@@ -1,42 +1,11 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 02
 
-In this exercise, we will create...
+SAP Intelligent Product Recommendation is a cloud application that uses machine learning to streamline the product selection and configuration of complex configurable products in Sales process. Product and Configuration recommendations are made based on customer needs using Machine Learning models created based on historical sales transaction data.
 
-## Exercise 2.1 Sub Exercise 1 Description
-
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
-
-
-
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
+In this exercise, we will perform the design time activities required to recommend a configurable product and it's configuration.
+You will also see and play with the runtime UI that is prebuilt for you.
+The details of the exercise are described in the accompanying [handout](https://github.com/SAP-samples/teched2023-AI268/blob/main/exercises/ex2/Handout_SAP_Intelligent_Product_Recommendation.pdf).
 
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+You have now finished the exercise and seen how the SAP Data Attribute Recommendation service's features are utilised in SAP Intelligent Product Recommendation.
