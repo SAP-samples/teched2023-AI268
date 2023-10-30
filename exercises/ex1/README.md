@@ -17,7 +17,7 @@ There are two options: running the notebook locally or running it on a cloud ser
 The easiest way to get started with Jupyter is to launch the
 notebook directly in your browser via [mybinder.org].
 
-[mybinder.org]: https://mybinder.org/v2/gh/SAP-samples/teched2021-INT360/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FData_Attribute_Recommendation_Regression_Model_Template.ipynb
+[mybinder.org]: https://mybinder.org/v2/gh/SAP-samples/teched2023-AI268/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FSales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb
 
 It may take up to five minutes to launch the notebook. Sessions on this free service
 can be terminated after a [10 minutes of inactivity]. Make sure not to leave the
@@ -42,13 +42,13 @@ even after five minutes, you can directly try one of the
 [fallback options](https://binderhub.readthedocs.io/en/stable/federation/federation.html):
 [Binderhub], [OVH] or [GESIS].
 
-[Binderhub]: https://gke.mybinder.org/v2/gh/SAP-samples/teched2021-INT360/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FData_Attribute_Recommendation_Regression_Model_Template.ipynb
-[OVH]: https://ovh.mybinder.org/v2/gh/SAP-samples/teched2021-INT360/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FData_Attribute_Recommendation_Regression_Model_Template.ipynb
-[GESIS]: https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2021-INT360/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FData_Attribute_Recommendation_Regression_Model_Template.ipynb
+[Binderhub]: https://gke.mybinder.org/v2/gh/SAP-samples/teched2023-AI268/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FSales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb
+[OVH]: https://ovh.mybinder.org/v2/gh/SAP-samples/teched2023-AI268/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FSales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb
+[GESIS]: https://notebooks.gesis.org/binder/v2/gh/SAP-samples/teched2023-AI268/main?urlpath=lab%2Ftree%2Fexercises%2Fex1%2FSales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb
 
 If you prefer, the notebook is also available on [Google Colab] after prior login.
 
-[Google Colab]: https://colab.research.google.com/github/SAP-samples/teched2021-INT360/blob/main/exercises/ex1/Data_Attribute_Recommendation_Regression_Model_Template.ipynb
+[Google Colab]: https://colab.research.google.com/github/SAP-samples/teched2023-AI268/blob/main/exercises/ex1/Sales_Order_Completion_Using_Data_Attribute_Reccomendation.ipynb
 
 #### Executing the Notebook locally
 
